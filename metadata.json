@@ -1,0 +1,6 @@
+{
+  "name": "Babaji Footwear",
+  "description": "An elegant Amazon-style online shoe store with a fully loaded customer shopping experience and a comprehensive inventory admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
